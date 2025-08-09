@@ -9,7 +9,7 @@ export const Navbar = () => {
 				<img className="navbar-brand mb-0 logo" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Star_Wars_Logo.svg" alt="Star Wars" />
 			</Link>
 			<div className="ml-auto">
-				<Link to="/demo">
+				<Link to="/favorite">
 					<button className="btn btn-warning navbtn">Favorites</button>
 				</Link>
 			</div>
